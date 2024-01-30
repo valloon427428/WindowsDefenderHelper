@@ -1,6 +1,6 @@
 # WindowsDefenderHelper
 
-C# class that can add/remove/read exclusions on Windows Defender. This requires Administrator Privilege.
+Add/remove/read exclusions on Windows Defender using C#. This requires Administrator Privilege.
 
 ## How to use
 
